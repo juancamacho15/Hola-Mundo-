@@ -1,3 +1,3 @@
-# Hola-Mundo-
-Mi primer repositorio de prueba  
+# Hola Mundo
+Mi primer repositorio 
 Autor: Juan Pablo Camacho Camacho 
